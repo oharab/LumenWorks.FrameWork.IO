@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A04D1476-9C23-4C05-B31E-40A6FB2D5E0A}"
+	ProjectSection(SolutionItems) = postProject
+		LumenWorks.FrameWork.IO.wrapdesc = LumenWorks.FrameWork.IO.wrapdesc
+		version = version
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.IO", "src\Framework.IO\Framework.IO.csproj", "{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Tests.Unit", "src\Framework.Tests.Unit\Framework.Tests.Unit.csproj", "{CE917814-F4C0-4EEE-B815-3CCA3382449E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Debug|x86.Build.0 = Debug|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Debug|x86.ActiveCfg = Debug|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Debug|Any CPU.Build.0 = Debug|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Release|x86.Build.0 = Release|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Release|x86.ActiveCfg = Release|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Release|Any CPU.Build.0 = Release|x86
+		{A739B7C3-E7F0-4748-BDB5-2B48963A0C8F}.Release|Any CPU.ActiveCfg = Release|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Debug|x86.Build.0 = Debug|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Debug|x86.ActiveCfg = Debug|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Debug|Any CPU.Build.0 = Debug|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Release|x86.Build.0 = Release|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Release|x86.ActiveCfg = Release|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Release|Any CPU.Build.0 = Release|x86
+		{CE917814-F4C0-4EEE-B815-3CCA3382449E}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

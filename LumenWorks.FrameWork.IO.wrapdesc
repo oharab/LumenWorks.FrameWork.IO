@@ -1,0 +1,5 @@
+﻿name: LumenWorks.FrameWork.IO
+depends: openwrap anchored content
+created: Thu, 10 Nov 2011 00:00:00 GMT
+depends: nunit
+build: msbuild;profile=net20;profile=net35;

@@ -1,0 +1,2 @@
+﻿[OpenWrap](http://www.openwrap.org/) packaged version of Sebastien Lorion's fast [CSV Reader](http://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader).
+Released under [MIT License](http://opensource.org/licenses/mit-license.php)
